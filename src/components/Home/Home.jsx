@@ -44,11 +44,11 @@ const Home = () => {
                     </p>
 
                     <div className="flex flex-wrap gap-4">
-                        <button className="px-9 py-4 bg-amber-500 text-slate-950 rounded-xl font-black hover:bg-amber-400 transition-all shadow-lg shadow-amber-500/20 active:scale-95">
+                        <button className="cursor-pointer px-9 py-4 bg-amber-500 text-slate-950 rounded-xl font-black hover:bg-amber-400 transition-all shadow-lg shadow-amber-500/20 active:scale-95">
                             احجز استشارة الآن
                         </button>
 
-                        <button className="px-9 py-4 bg-white/10 text-white border border-white/20 backdrop-blur-md rounded-xl font-bold hover:bg-white/20 transition-all active:scale-95">
+                        <button className="cursor-pointer px-9 py-4 bg-white/10 text-white border border-white/20 backdrop-blur-md rounded-xl font-bold hover:bg-white/20 transition-all active:scale-95">
                             خدماتنا القانونية
                         </button>
                     </div>
